@@ -5,6 +5,5 @@
 - 📫 How to reach me . My email ibrahimsiciid10@gmail.com 
 
 
-Caafimaad10/Caafimaad10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+##Ibrahim Saeed Abdalla is the professional Full Stack developer for the production of desktop applications and network applications and Internet applications and websites and mobile applications and professional cloud applications for commercial, administrative and educational purposes in the homeland (Somaliland) in addition to the production of educational courses in the field of programming and databases for school students, institutes and universities
 
